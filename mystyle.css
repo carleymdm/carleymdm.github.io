@@ -1,9 +1,16 @@
-h1{
-background-color:#000;
-color:#fff;
-font-size:3em;
+<head>
+<style>
+body {
+  background-color: darkgrey;
 }
-p.fancy{
-color:#666;
-font-style: oblique;
+
+h1 {
+  color: white;
+  text-align: center;
 }
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
